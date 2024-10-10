@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+
+.cards-view {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.shop-card {
+  border: 1px solid #ccc;
+  padding: 10px;
+  width: 200px;
+}
+
+.list-view {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.shop-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  border: 1px solid #ccc;
+  padding: 10px;
+}
